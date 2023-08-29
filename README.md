@@ -1,4 +1,4 @@
 # GitHub_demo
 This is my first github demo
 <br>
-Author - Dipesh Gupta
+Author - Dipesh Gupta (name)
